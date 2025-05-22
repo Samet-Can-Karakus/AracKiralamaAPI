@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AracKiralamaAPI", "AracKiralamaAPI\AracKiralamaAPI.csproj", "{52C0AEB0-A62D-4B67-A889-68DDDA7A9237}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52C0AEB0-A62D-4B67-A889-68DDDA7A9237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52C0AEB0-A62D-4B67-A889-68DDDA7A9237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52C0AEB0-A62D-4B67-A889-68DDDA7A9237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52C0AEB0-A62D-4B67-A889-68DDDA7A9237}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5285B9FA-92FF-4D74-B366-D999ADA86B8E}
+	EndGlobalSection
+EndGlobal
